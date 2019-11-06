@@ -1,0 +1,12 @@
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\bin\Debug\TpBaseDeDatos.exe.config
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\bin\Debug\TpBaseDeDatos.exe
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\bin\Debug\TpBaseDeDatos.pdb
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.Alta.resources
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.Consulta.resources
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.Inicial.resources
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.Properties.Resources.resources
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.csproj.GenerateResource.cache
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.exe
+C:\Users\Carmi\source\repos\TpBaseDeDatos\TpBaseDeDatos\obj\Debug\TpBaseDeDatos.pdb
